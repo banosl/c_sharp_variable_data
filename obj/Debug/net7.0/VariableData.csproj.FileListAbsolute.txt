@@ -1,0 +1,15 @@
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/bin/Debug/net7.0/VariableData
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/bin/Debug/net7.0/VariableData.deps.json
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/bin/Debug/net7.0/VariableData.runtimeconfig.json
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/bin/Debug/net7.0/VariableData.dll
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/bin/Debug/net7.0/VariableData.pdb
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.csproj.AssemblyReference.cache
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.AssemblyInfoInputs.cache
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.AssemblyInfo.cs
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.csproj.CoreCompileInputs.cache
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.dll
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/refint/VariableData.dll
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.pdb
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/VariableData.genruntimeconfig.cache
+/Users/leobanos/random_projects/c_sharp/variable_data/VariableData/obj/Debug/net7.0/ref/VariableData.dll
